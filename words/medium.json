@@ -1,0 +1,326 @@
+[
+    {
+        "word": "PYTHON",
+        "hint": "Popular programming language"
+    },
+    {
+        "word": "JAVASCRIPT",
+        "hint": "Web programming language"
+    },
+    {
+        "word": "DATABASE",
+        "hint": "Organized collection of data"
+    },
+    {
+        "word": "KEYBOARD",
+        "hint": "Device for typing on computer"
+    },
+    {
+        "word": "MONITOR",
+        "hint": "Computer screen display"
+    },
+    {
+        "word": "INTERNET",
+        "hint": "Global computer network"
+    },
+    {
+        "word": "DOWNLOAD",
+        "hint": "Transfer data from internet to device"
+    },
+    {
+        "word": "WEBSITE",
+        "hint": "Collection of web pages"
+    },
+    {
+        "word": "GUITAR",
+        "hint": "String musical instrument"
+    },
+    {
+        "word": "PIANO",
+        "hint": "Keyboard musical instrument"
+    },
+    {
+        "word": "DRUMS",
+        "hint": "Percussion instruments you hit"
+    },
+    {
+        "word": "VIOLIN",
+        "hint": "String instrument played with bow"
+    },
+    {
+        "word": "TRUMPET",
+        "hint": "Brass wind instrument"
+    },
+    {
+        "word": "SAXOPHONE",
+        "hint": "Woodwind jazz instrument"
+    },
+    {
+        "word": "ELEPHANT",
+        "hint": "Largest land animal"
+    },
+    {
+        "word": "GIRAFFE",
+        "hint": "Tallest animal with long neck"
+    },
+    {
+        "word": "DOLPHIN",
+        "hint": "Intelligent marine mammal"
+    },
+    {
+        "word": "PENGUIN",
+        "hint": "Flightless bird from Antarctica"
+    },
+    {
+        "word": "KANGAROO",
+        "hint": "Australian hopping marsupial"
+    },
+    {
+        "word": "GORILLA",
+        "hint": "Large powerful ape"
+    },
+    {
+        "word": "LEOPARD",
+        "hint": "Spotted big cat"
+    },
+    {
+        "word": "CHEETAH",
+        "hint": "Fastest land animal"
+    },
+    {
+        "word": "COMPUTER",
+        "hint": "Machine for processing data"
+    },
+    {
+        "word": "TELEPHONE",
+        "hint": "Device for voice communication"
+    },
+    {
+        "word": "TELEVISION",
+        "hint": "Device for watching shows"
+    },
+    {
+        "word": "CAMERA",
+        "hint": "Device for taking photos"
+    },
+    {
+        "word": "PRINTER",
+        "hint": "Device that prints on paper"
+    },
+    {
+        "word": "MICROWAVE",
+        "hint": "Appliance for heating food quickly"
+    },
+    {
+        "word": "REFRIGERATOR",
+        "hint": "Appliance that keeps food cold"
+    },
+    {
+        "word": "ASTRONAUT",
+        "hint": "Professional who travels to space"
+    },
+    {
+        "word": "SCIENTIST",
+        "hint": "Person who studies science"
+    },
+    {
+        "word": "ENGINEER",
+        "hint": "Person who designs and builds things"
+    },
+    {
+        "word": "TEACHER",
+        "hint": "Person who educates students"
+    },
+    {
+        "word": "DOCTOR",
+        "hint": "Medical professional"
+    },
+    {
+        "word": "ARTIST",
+        "hint": "Person who creates art"
+    },
+    {
+        "word": "MUSICIAN",
+        "hint": "Person who plays music"
+    },
+    {
+        "word": "MOUNTAIN",
+        "hint": "Very tall natural elevation"
+    },
+    {
+        "word": "VOLCANO",
+        "hint": "Mountain that can erupt lava"
+    },
+    {
+        "word": "DESERT",
+        "hint": "Very dry sandy region"
+    },
+    {
+        "word": "FOREST",
+        "hint": "Large area covered with trees"
+    },
+    {
+        "word": "JUNGLE",
+        "hint": "Dense tropical forest"
+    },
+    {
+        "word": "ISLAND",
+        "hint": "Land surrounded by water"
+    },
+    {
+        "word": "RAINBOW",
+        "hint": "Colorful arc in the sky after rain"
+    },
+    {
+        "word": "THUNDER",
+        "hint": "Loud sound during a storm"
+    },
+    {
+        "word": "LIGHTNING",
+        "hint": "Bright flash during a storm"
+    },
+    {
+        "word": "HURRICANE",
+        "hint": "Powerful tropical storm"
+    },
+    {
+        "word": "TORNADO",
+        "hint": "Violent rotating column of air"
+    },
+    {
+        "word": "EARTHQUAKE",
+        "hint": "Ground shaking event"
+    },
+    {
+        "word": "DINOSAUR",
+        "hint": "Extinct prehistoric reptile"
+    },
+    {
+        "word": "FOSSIL",
+        "hint": "Preserved remains of ancient life"
+    },
+    {
+        "word": "PYRAMID",
+        "hint": "Ancient Egyptian structure"
+    },
+    {
+        "word": "CASTLE",
+        "hint": "Medieval fortified building"
+    },
+    {
+        "word": "TEMPLE",
+        "hint": "Religious building for worship"
+    },
+    {
+        "word": "LIBRARY",
+        "hint": "Building with many books"
+    },
+    {
+        "word": "MUSEUM",
+        "hint": "Building displaying art or history"
+    },
+    {
+        "word": "STADIUM",
+        "hint": "Large sports venue"
+    },
+    {
+        "word": "HOSPITAL",
+        "hint": "Place for medical treatment"
+    },
+    {
+        "word": "AIRPORT",
+        "hint": "Place where planes take off"
+    },
+    {
+        "word": "SUBWAY",
+        "hint": "Underground train system"
+    },
+    {
+        "word": "BRIDGE",
+        "hint": "Structure over water or valley"
+    },
+    {
+        "word": "TUNNEL",
+        "hint": "Underground passage"
+    },
+    {
+        "word": "BICYCLE",
+        "hint": "Two-wheeled pedal vehicle"
+    },
+    {
+        "word": "MOTORCYCLE",
+        "hint": "Two-wheeled motor vehicle"
+    },
+    {
+        "word": "AIRPLANE",
+        "hint": "Flying vehicle with wings"
+    },
+    {
+        "word": "HELICOPTER",
+        "hint": "Aircraft with rotating blades"
+    },
+    {
+        "word": "SUBMARINE",
+        "hint": "Underwater naval vessel"
+    },
+    {
+        "word": "ROCKET",
+        "hint": "Vehicle for space travel"
+    },
+    {
+        "word": "SATELLITE",
+        "hint": "Object orbiting Earth"
+    },
+    {
+        "word": "TELESCOPE",
+        "hint": "Device for viewing distant objects"
+    },
+    {
+        "word": "MICROSCOPE",
+        "hint": "Device for viewing tiny objects"
+    },
+    {
+        "word": "MAGNET",
+        "hint": "Object that attracts metal"
+    },
+    {
+        "word": "BATTERY",
+        "hint": "Device that stores electrical energy"
+    },
+    {
+        "word": "COMPASS",
+        "hint": "Device showing direction"
+    },
+    {
+        "word": "CALENDAR",
+        "hint": "Chart showing days and months"
+    },
+    {
+        "word": "UMBRELLA",
+        "hint": "Protection from rain"
+    },
+    {
+        "word": "BACKPACK",
+        "hint": "Bag worn on your back"
+    },
+    {
+        "word": "SUITCASE",
+        "hint": "Luggage for traveling"
+    },
+    {
+        "word": "BUTTERFLY",
+        "hint": "Insect with colorful wings"
+    },
+    {
+        "word": "DRAGONFLY",
+        "hint": "Fast-flying insect near water"
+    },
+    {
+        "word": "LADYBUG",
+        "hint": "Small red beetle with spots"
+    },
+    {
+        "word": "CRICKET",
+        "hint": "Insect that chirps at night"
+    }
+]

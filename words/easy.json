@@ -1,0 +1,254 @@
+[
+    {
+        "word": "CAT",
+        "hint": "Domestic animal that meows"
+    },
+    {
+        "word": "DOG",
+        "hint": "Man's best friend"
+    },
+    {
+        "word": "FISH",
+        "hint": "Lives in water and has fins"
+    },
+    {
+        "word": "BIRD",
+        "hint": "Animal that can fly"
+    },
+    {
+        "word": "FROG",
+        "hint": "Amphibian that hops and croaks"
+    },
+    {
+        "word": "BEAR",
+        "hint": "Large furry animal that hibernates"
+    },
+    {
+        "word": "LION",
+        "hint": "King of the jungle"
+    },
+    {
+        "word": "DUCK",
+        "hint": "Water bird that quacks"
+    },
+    {
+        "word": "HOUSE",
+        "hint": "Place where we live"
+    },
+    {
+        "word": "DOOR",
+        "hint": "You open this to enter a room"
+    },
+    {
+        "word": "WALL",
+        "hint": "Separates rooms in a house"
+    },
+    {
+        "word": "ROOF",
+        "hint": "Top covering of a building"
+    },
+    {
+        "word": "CHAIR",
+        "hint": "Furniture you sit on"
+    },
+    {
+        "word": "TABLE",
+        "hint": "Furniture for eating or working"
+    },
+    {
+        "word": "BED",
+        "hint": "Where you sleep"
+    },
+    {
+        "word": "LAMP",
+        "hint": "Device that gives light"
+    },
+    {
+        "word": "BALL",
+        "hint": "Round object used in sports"
+    },
+    {
+        "word": "KITE",
+        "hint": "Flies in the wind on a string"
+    },
+    {
+        "word": "DOLL",
+        "hint": "Toy that looks like a person"
+    },
+    {
+        "word": "BIKE",
+        "hint": "Two-wheeled vehicle you pedal"
+    },
+    {
+        "word": "BOOK",
+        "hint": "You read this"
+    },
+    {
+        "word": "PEN",
+        "hint": "Tool for writing with ink"
+    },
+    {
+        "word": "PAPER",
+        "hint": "You write or draw on this"
+    },
+    {
+        "word": "PHONE",
+        "hint": "Device for calling people"
+    },
+    {
+        "word": "APPLE",
+        "hint": "Red or green fruit"
+    },
+    {
+        "word": "BREAD",
+        "hint": "Baked food made from flour"
+    },
+    {
+        "word": "CAKE",
+        "hint": "Sweet dessert for birthdays"
+    },
+    {
+        "word": "MILK",
+        "hint": "White drink from cows"
+    },
+    {
+        "word": "PIZZA",
+        "hint": "Italian food with cheese and toppings"
+    },
+    {
+        "word": "RICE",
+        "hint": "White grain often eaten with meals"
+    },
+    {
+        "word": "SUN",
+        "hint": "Star that lights up Earth"
+    },
+    {
+        "word": "MOON",
+        "hint": "Earth's natural satellite"
+    },
+    {
+        "word": "STAR",
+        "hint": "Shines in the night sky"
+    },
+    {
+        "word": "RAIN",
+        "hint": "Water falling from clouds"
+    },
+    {
+        "word": "SNOW",
+        "hint": "Frozen white precipitation"
+    },
+    {
+        "word": "WIND",
+        "hint": "Moving air you can feel"
+    },
+    {
+        "word": "FIRE",
+        "hint": "Hot, bright, and burns"
+    },
+    {
+        "word": "WATER",
+        "hint": "Clear liquid we drink"
+    },
+    {
+        "word": "TREE",
+        "hint": "Tall plant with branches"
+    },
+    {
+        "word": "FLOWER",
+        "hint": "Colorful part of plants"
+    },
+    {
+        "word": "GRASS",
+        "hint": "Green plants covering lawns"
+    },
+    {
+        "word": "LEAF",
+        "hint": "Green part of a plant"
+    },
+    {
+        "word": "HAND",
+        "hint": "Body part with five fingers"
+    },
+    {
+        "word": "FOOT",
+        "hint": "Body part you walk on"
+    },
+    {
+        "word": "HEAD",
+        "hint": "Top part of your body"
+    },
+    {
+        "word": "EYE",
+        "hint": "Body part for seeing"
+    },
+    {
+        "word": "EAR",
+        "hint": "Body part for hearing"
+    },
+    {
+        "word": "NOSE",
+        "hint": "Body part for smelling"
+    },
+    {
+        "word": "RED",
+        "hint": "Color of fire trucks"
+    },
+    {
+        "word": "BLUE",
+        "hint": "Color of the sky"
+    },
+    {
+        "word": "GREEN",
+        "hint": "Color of grass"
+    },
+    {
+        "word": "HAPPY",
+        "hint": "Feeling when you smile"
+    },
+    {
+        "word": "SMILE",
+        "hint": "Expression when you're happy"
+    },
+    {
+        "word": "JUMP",
+        "hint": "Leap into the air"
+    },
+    {
+        "word": "RUN",
+        "hint": "Move very fast on foot"
+    },
+    {
+        "word": "WALK",
+        "hint": "Move at a normal pace"
+    },
+    {
+        "word": "SING",
+        "hint": "Make music with your voice"
+    },
+    {
+        "word": "DANCE",
+        "hint": "Move to music"
+    },
+    {
+        "word": "BEACH",
+        "hint": "Sandy shore by the ocean"
+    },
+    {
+        "word": "OCEAN",
+        "hint": "Very large body of salt water"
+    },
+    {
+        "word": "RIVER",
+        "hint": "Long flowing body of water"
+    },
+    {
+        "word": "LAKE",
+        "hint": "Large body of still water"
+    },
+    {
+        "word": "PARK",
+        "hint": "Public green space with playground"
+    }
+]

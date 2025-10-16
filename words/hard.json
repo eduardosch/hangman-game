@@ -1,0 +1,330 @@
+[
+    {
+        "word": "PHILOSOPHY",
+        "hint": "Study of knowledge and existence"
+    },
+    {
+        "word": "PSYCHOLOGY",
+        "hint": "Study of the mind and behavior"
+    },
+    {
+        "word": "ARCHAEOLOGY",
+        "hint": "Study of human history through excavation"
+    },
+    {
+        "word": "ASTRONOMY",
+        "hint": "Study of celestial objects and space"
+    },
+    {
+        "word": "MATHEMATICS",
+        "hint": "Study of numbers and equations"
+    },
+    {
+        "word": "ENGINEERING",
+        "hint": "Application of science to design structures"
+    },
+    {
+        "word": "PNEUMONIA",
+        "hint": "Lung infection"
+    },
+    {
+        "word": "INFLUENZA",
+        "hint": "Viral infection also called the flu"
+    },
+    {
+        "word": "DIABETES",
+        "hint": "Disease affecting blood sugar levels"
+    },
+    {
+        "word": "ANTIBIOTIC",
+        "hint": "Medicine that fights bacterial infections"
+    },
+    {
+        "word": "VACCINATION",
+        "hint": "Injection that prevents disease"
+    },
+    {
+        "word": "ARCHITECTURE",
+        "hint": "Art of designing buildings"
+    },
+    {
+        "word": "SKYSCRAPER",
+        "hint": "Very tall building"
+    },
+    {
+        "word": "CATHEDRAL",
+        "hint": "Large important church"
+    },
+    {
+        "word": "AMPHITHEATER",
+        "hint": "Ancient circular performance venue"
+    },
+    {
+        "word": "COLOSSEUM",
+        "hint": "Famous ancient Roman arena"
+    },
+    {
+        "word": "HEMOGLOBIN",
+        "hint": "Protein that carries oxygen in blood"
+    },
+    {
+        "word": "CHROMOSOME",
+        "hint": "Structure containing genetic material"
+    },
+    {
+        "word": "METABOLISM",
+        "hint": "Chemical processes in living organisms"
+    },
+    {
+        "word": "PHOTOSYNTHESIS",
+        "hint": "Process plants use to make food"
+    },
+    {
+        "word": "CHLOROPHYLL",
+        "hint": "Green pigment in plants"
+    },
+    {
+        "word": "ECOSYSTEM",
+        "hint": "Community of living organisms"
+    },
+    {
+        "word": "BIODIVERSITY",
+        "hint": "Variety of life in an ecosystem"
+    },
+    {
+        "word": "ALGORITHM",
+        "hint": "Step-by-step problem-solving procedure"
+    },
+    {
+        "word": "ENCRYPTION",
+        "hint": "Process of encoding information"
+    },
+    {
+        "word": "CYBERSECURITY",
+        "hint": "Protection of computer systems"
+    },
+    {
+        "word": "ARTIFICIAL",
+        "hint": "Made by humans, not natural"
+    },
+    {
+        "word": "INTELLIGENCE",
+        "hint": "Ability to learn and understand"
+    },
+    {
+        "word": "BLOCKCHAIN",
+        "hint": "Digital ledger technology"
+    },
+    {
+        "word": "CRYPTOCURRENCY",
+        "hint": "Digital currency using encryption"
+    },
+    {
+        "word": "QUANTUM",
+        "hint": "Related to atomic and subatomic particles"
+    },
+    {
+        "word": "RENAISSANCE",
+        "hint": "European cultural rebirth period"
+    },
+    {
+        "word": "REVOLUTION",
+        "hint": "Fundamental change in society"
+    },
+    {
+        "word": "CIVILIZATION",
+        "hint": "Advanced stage of human society"
+    },
+    {
+        "word": "DEMOCRACY",
+        "hint": "Government by the people"
+    },
+    {
+        "word": "CONSTITUTION",
+        "hint": "Fundamental laws of a nation"
+    },
+    {
+        "word": "PARLIAMENT",
+        "hint": "Legislative body of government"
+    },
+    {
+        "word": "AMBASSADOR",
+        "hint": "Official diplomatic representative"
+    },
+    {
+        "word": "ENCYCLOPEDIA",
+        "hint": "Comprehensive reference book"
+    },
+    {
+        "word": "BIBLIOGRAPHY",
+        "hint": "List of books and sources"
+    },
+    {
+        "word": "MANUSCRIPT",
+        "hint": "Handwritten or typed document"
+    },
+    {
+        "word": "LITERATURE",
+        "hint": "Written works of artistic value"
+    },
+    {
+        "word": "SHAKESPEARE",
+        "hint": "Famous English playwright"
+    },
+    {
+        "word": "MYTHOLOGY",
+        "hint": "Collection of traditional stories"
+    },
+    {
+        "word": "METAPHOR",
+        "hint": "Figure of speech comparing things"
+    },
+    {
+        "word": "SYMPHONY",
+        "hint": "Large orchestral musical composition"
+    },
+    {
+        "word": "ORCHESTRA",
+        "hint": "Large group of musicians"
+    },
+    {
+        "word": "CONDUCTOR",
+        "hint": "Person who directs an orchestra"
+    },
+    {
+        "word": "COMPOSER",
+        "hint": "Person who writes music"
+    },
+    {
+        "word": "PERCUSSION",
+        "hint": "Musical instruments you strike"
+    },
+    {
+        "word": "GEOGRAPHY",
+        "hint": "Study of Earth's features"
+    },
+    {
+        "word": "TOPOGRAPHY",
+        "hint": "Arrangement of natural features"
+    },
+    {
+        "word": "CARTOGRAPHY",
+        "hint": "Science of making maps"
+    },
+    {
+        "word": "EQUATOR",
+        "hint": "Imaginary line around Earth's middle"
+    },
+    {
+        "word": "HEMISPHERE",
+        "hint": "Half of Earth's sphere"
+    },
+    {
+        "word": "CONTINENT",
+        "hint": "Large landmass on Earth"
+    },
+    {
+        "word": "ANTARCTICA",
+        "hint": "Southernmost frozen continent"
+    },
+    {
+        "word": "MEDITERRANEAN",
+        "hint": "Sea between Europe and Africa"
+    },
+    {
+        "word": "HIMALAYA",
+        "hint": "Highest mountain range"
+    },
+    {
+        "word": "EVEREST",
+        "hint": "World's tallest mountain"
+    },
+    {
+        "word": "ATMOSPHERE",
+        "hint": "Layer of gases around Earth"
+    },
+    {
+        "word": "STRATOSPHERE",
+        "hint": "Layer of atmosphere with ozone"
+    },
+    {
+        "word": "GREENHOUSE",
+        "hint": "Building for growing plants"
+    },
+    {
+        "word": "POLLUTION",
+        "hint": "Contamination of environment"
+    },
+    {
+        "word": "CONSERVATION",
+        "hint": "Protection of natural resources"
+    },
+    {
+        "word": "RENEWABLE",
+        "hint": "Can be replenished naturally"
+    },
+    {
+        "word": "SUSTAINABLE",
+        "hint": "Able to be maintained long-term"
+    },
+    {
+        "word": "REFRIGERATOR",
+        "hint": "Appliance that keeps things cold"
+    },
+    {
+        "word": "DISHWASHER",
+        "hint": "Machine for cleaning dishes"
+    },
+    {
+        "word": "THERMOSTAT",
+        "hint": "Device controlling temperature"
+    },
+    {
+        "word": "ELECTRICITY",
+        "hint": "Flow of electrical power"
+    },
+    {
+        "word": "GENERATOR",
+        "hint": "Machine producing electricity"
+    },
+    {
+        "word": "TURBINE",
+        "hint": "Rotating engine component"
+    },
+    {
+        "word": "HYDRAULIC",
+        "hint": "Operated by fluid pressure"
+    },
+    {
+        "word": "MECHANICAL",
+        "hint": "Related to machinery"
+    },
+    {
+        "word": "INDUSTRIAL",
+        "hint": "Related to manufacturing"
+    },
+    {
+        "word": "CORPORATION",
+        "hint": "Large business company"
+    },
+    {
+        "word": "ENTREPRENEUR",
+        "hint": "Person who starts businesses"
+    },
+    {
+        "word": "INVESTMENT",
+        "hint": "Money put into assets"
+    },
+    {
+        "word": "BANKRUPTCY",
+        "hint": "Legal inability to pay debts"
+    },
+    {
+        "word": "INFLATION",
+        "hint": "Rising prices over time"
+    },
+    {
+        "word": "RECESSION",
+        "hint": "Economic decline period"
+    }
+]
